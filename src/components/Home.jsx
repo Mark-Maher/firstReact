@@ -6,7 +6,7 @@ function Home() {
     <div>
       <div className='home d-flex justify-content-center align-items-center flex-column text-white'>
         <img src={img} alt='avatar-img' width={250} className='mb-5' />
-        <h2 className='fw-bold fs-1 '>START FRAMEWORK</h2>
+        <h2 className='fw-bold fs-1 '>STAR FRAMEWORK</h2>
         <span className='star position-relative'>
           <FaStar className='fs-5 ' />
         </span>
